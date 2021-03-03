@@ -45,3 +45,6 @@ conda env create -f environment.yml
 cd cv-nlp-end-term
 streamlit run test.py
 ```
+
+## Who are dedicated to this project
+Dung, Tam, Pha, Nhat
