@@ -26,8 +26,10 @@ Simulate a sport event where the crowd is cheering, and the commentator is deliv
 
 
 ### The model
-Resnet152 + LSTM, without Attention
-
+- Resnet152 + LSTM, without Attention
+- Downloads:
+  - [encoder](https://drive.google.com/file/d/1mrRQaHuPRClyW_TklpVmnlu4jb-_J5xX/view?usp=sharing)
+  - [decoder](https://drive.google.com/file/d/12e-P6eQfmm_tU05f8-a-xF-DIvEKcBso/view?usp=sharing)
 
 ### Reproduce the demo
 
