@@ -15,7 +15,7 @@ An image &#8594; System &#8594; Caption that describes the image
 
 
 ## The notebooks
-The notebooks for preprocessing data, training, evaluating the experiments are in 
+The notebooks for preprocessing data, training, evaluating the experiments are in [notebooks](https://github.com/congphase/cv-nlp-end-term/tree/strategy-1/notebooks)
 
 
 ## The demo
