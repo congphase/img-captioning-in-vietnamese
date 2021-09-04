@@ -14,7 +14,7 @@ An image &#8594; System &#8594; Caption that describes the image
 
 ## The notebooks
 
-The notebooks for preprocessing data, training, evaluating the experiments are in
+The notebooks for preprocessing data, training, evaluating the experiments are in [`strategy-1` branch](https://github.com/congphase/img-captioning-in-vietnamese/tree/strategy-1/notebooks)
 
 ## The demo
 
