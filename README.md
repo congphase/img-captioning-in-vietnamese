@@ -4,7 +4,7 @@
 
 ### Pipeline
 
-An image &#8594; System &#8594; Caption that describes the image
+![image](https://user-images.githubusercontent.com/28902802/136682525-cd8aea0f-efab-4089-bb36-777934fcbf8d.png)
 
 ### Applications
 
@@ -28,9 +28,6 @@ Simulate a sport event where the crowd is cheering, and the commentator is deliv
 - Downloads:
   - [encoder](https://drive.google.com/file/d/1mrRQaHuPRClyW_TklpVmnlu4jb-_J5xX/view?usp=sharing)
   - [decoder](https://drive.google.com/file/d/12e-P6eQfmm_tU05f8-a-xF-DIvEKcBso/view?usp=sharing)
-
-### Pipeline
-![image](https://user-images.githubusercontent.com/28902802/136682525-cd8aea0f-efab-4089-bb36-777934fcbf8d.png)
 
 ### Reproduce the demo
 
