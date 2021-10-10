@@ -22,6 +22,9 @@ The notebooks for preprocessing data, training, evaluating the experiments are i
 
 Simulate a sport event where the crowd is cheering, and the commentator is delivering his speech based on the situation of the match.
 
+### Watch it
+[Demo video](https://youtu.be/jcMWzUln6Rs)
+
 ### The model
 
 - Resnet152 + LSTM, without Attention
