@@ -16,8 +16,11 @@
 
 The notebooks for preprocessing data, training, evaluating the experiments are in [`strategy-1` branch](https://github.com/congphase/img-captioning-in-vietnamese/tree/strategy-1/notebooks)
 
-## The demo
+## More details
+Read our thesis [here](docs/Final_report.pdf)
 
+## The demo
+![](docs/demo_screen.png)
 ### Idea
 
 Simulate a sport event where the crowd is cheering, and the commentator is delivering his speech based on the situation of the match.
