@@ -1,4 +1,4 @@
-# cv-nlp-end-term
+# img-captioning-in-vietnamese
 
 ## Project description
 
