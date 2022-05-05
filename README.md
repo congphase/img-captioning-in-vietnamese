@@ -37,7 +37,7 @@ Simulate a sport event where the crowd is cheering, and the commentator is deliv
 
 ### Reproduce the demo
 
-#### Crete anaconda environment
+#### Create anaconda environment
 
 ```
 conda env create -f environment.yml
